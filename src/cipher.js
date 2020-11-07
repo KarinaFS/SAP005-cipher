@@ -1,9 +1,9 @@
 const cipher = {
-  let message = ""
+  let message = "";
   const alphabetSize = 26;
   const alphabetSizeASC = 65;
   let displ = ;
-  let finalSentence = ""
+  let finalSentence = "";
 
 encode (displ, message) {
 
@@ -20,16 +20,19 @@ for (let turns=0; turns < message.length; turns++ ){
     return finalSentence;
   } 
 
-};
+
 
 decode (displ, message){
   
-let message = ""
+let message = "";
 const alphabetSize = 26;
 const alphabetSizeASC = 65;
 let displ = ;
-let finalSentence = ""
+let finalSentence = "";
+
+for (let i=0; i <= message.length; i++){
 
 
+};
 
 export default cipher;
