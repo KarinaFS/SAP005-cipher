@@ -16,25 +16,21 @@ O projeto foi feito pensado em Saul Goodman. Saul é um personagem ficticio de u
 ![paginaweb](call.png)
 ![paginaweb](better.png)
 
--[Link](https://karinafs.github.io/SAP005-cipher/.) do site
+-[Link](https://karinafs.github.io/SAP005-cipher/.) do si
 
 
 ## 2. Usuários
 
 Saul e seus clientes
 
-## 3. Como usar
+## 3.  Como utilizar
 
--No campo "Mensagem" Saul deve escrever a mensagem que deseja criptografar
--No campo "Deslocamento" deve escolher o número do deslocamento
--No campo "Mensagem Codificada" irá aparecer a mensagem 
--O cliente irá receber a mensagem codificada e deve descodificar na segunda área
--Botão para codificar e descodificar a mensagem
+* No campo "Mensagem" Saul deve escrever a mensagem que deseja criptografa
+* No campo "Deslocamento" deve escolher o número do deslocamento
+* No campo "Mensagem Codificada" irá aparecer a mensagem 
+* O cliente irá receber a mensagem codificada e deve descodificar na segunda área
+* Botão para codificar e descodificar a mensagem
 
 
 ## 4. Desenvolvimento
-
-
-
-
 
