@@ -11,7 +11,7 @@
 
 ## 1. Projeto
 
-O projeto foi feito pensado em Saul Goodman. Saul é um personagem ficticio de uma série (Better Call Saul). Na série, Saul é um advogado que defende criminosos, e como lida com clientes de gang's e do cartel, ele corre grande risco de vida ao lidar com essas pessoas. Para se comunicar com seus clientes, já que a polícia constantemente o persegue, criei um site para que ele possa criptografar as mensagem e interagir com seus clientes para que não corra nenhum risco de ser descoberto.
+O projeto foi feito pensando em Saul Goodman. Saul é um personagem ficticio de uma série (Better Call Saul). Na série, Saul é um advogado que defende criminosos, como membros de gang's e do cartel. Para se comunicar com seus clientes, já que a polícia constantemente o persegue, criei um site para que ele possa interagir com eles sem correr nenhum risco de ser descoberto.
 
 ![paginaweb](call.png)
 ![paginaweb](better.png)
