@@ -22,7 +22,7 @@ Saul e seus clientes
 
 ## 3. Como usar
 
--[Link] do site  (https://karinafs.gihub.io/SAP005-cipher/.)
+-[Link] do site  (https://KarinaFS.gihub.io/SAP005-cipher/.)
 -No campo "Mensagem" Saul deve escrever a mensagem que deseja criptografar
 -No campo "Deslocamento" deve escolher o número do deslocamento
 -No campo "Mensagem Codificada" irá aparecer a mensagem 
