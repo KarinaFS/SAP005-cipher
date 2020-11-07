@@ -35,7 +35,7 @@ Saul e seus clientes
 
 * Ententer a Cifra de César
 * Escolha dos usuários
-* Estirizar a página
+* Estilizar a página
 * Entender a lógica
 * HTML
 * Tentar fazer o código funcionar
