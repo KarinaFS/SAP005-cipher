@@ -16,8 +16,7 @@ O projeto foi feito pensado em Saul Goodman. Saul é um personagem ficticio de u
 ![paginaweb](call.png)
 ![paginaweb](better.png)
 
--[Link](https://karinafs.github.io/SAP005-cipher/.) do si
-
+-[Link](https://karinafs.github.io/SAP005-cipher/.) do site
 
 ## 2. Usuários
 
@@ -32,5 +31,12 @@ Saul e seus clientes
 * Botão para codificar e descodificar a mensagem
 
 
-## 4. Desenvolvimento
+## 4. Desenvolvimento do projeto
 
+* Ententer a Cifra de César
+* Escolha dos usuários
+* Estirizar a página
+* Entender a lógica
+* HTML
+* Tentar fazer o código funcionar
+* Read Me
