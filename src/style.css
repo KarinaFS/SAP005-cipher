@@ -1,7 +1,29 @@
-.button {
-    font-family: comic sans-serif; 
-    font-size: medium;
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: #f15bb5;
+}
+
+h1, p, legend, label {
+    font-family: Poppins, sans-serif;
+}
+
+button {
+    font-family: Poppins, sans-serif;
+    background-color: #9b5de5;
+
+    color: white;
+    border-color: white;
+    padding: 0.5rem;
     cursor: pointer;
-    margin: 20px;
-    
+}
+
+form {
+    background-color: #fee440;
+    padding: 2rem 3rem;
+    width: 26.5rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
