@@ -1,29 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Poppins:wght@300&display=swap');
 
 body {
-    background-color: #f15bb5;
+    background-color: #f5cac3;
 }
 
 h1, p, legend, label {
     font-family: Poppins, sans-serif;
 }
 
-button {
-    font-family: Poppins, sans-serif;
-    background-color: #9b5de5;
-
-    color: white;
-    border-color: white;
-    padding: 0.5rem;
-    cursor: pointer;
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;  
 }
 
-form {
-    background-color: #fee440;
+.item {
+    background-color: #f28482;
     padding: 2rem 3rem;
-    width: 26.5rem;
+    margin: 20px;
+}
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+button {
+    font-family: Poppins, sans-serif;
+    background-color: #f7ede2;
+    padding: 0.5rem;
+    cursor: pointer;
 }

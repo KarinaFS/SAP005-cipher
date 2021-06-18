@@ -7,6 +7,7 @@
 
 
   <link rel="stylesheet" href="style.css" />
+  <link rel="shortcut icon" href="./img/favicon.jpg" />
 </head>
 
 <body background="">
@@ -16,30 +17,32 @@
 
     <p>Oi! Eu sou seu diário digital :) <span>Aqui você pode desabafar a vontade e contar como está se sentindo ou os acontecimentos do seu dia a dia. O mais legal é que você pode criptografar e descriptografar essas mensagens para que ninguém além de você (ou quem você quiser), veja.</span> E ai, o que tem para contar?</p>
 
-    <section id="section-encrypt">
-      <form id="encrypt" autocomplete="off">
-        <fieldset>
-          <legend>Criptografe sua mensagem</legend>
-          <label>Mensagem:</label><textarea id="message" cols="35" rows="8"></textarea><br>
-          <label>Deslocamento: </label><input class="campo_deslocamento" id="encryOffset"><br>
-          <label>Mensagem Codificada:</label><br><textarea id="encryMessage" cols="35" rows="8"></textarea><br>
-          <button id="encodeButton" type="submit">Criptografar mensagem</button>
-        </fieldset>
-      </form>
-    </section>
+    <div class="container">
+      <section class="item">
+        <form id="encrypt" autocomplete="off">
+          <fieldset>
+            <legend>Criptografe sua mensagem</legend>
+            <label>Mensagem:</label><textarea id="message" cols="35" rows="8"></textarea><br>
+            <label>Deslocamento: </label><input class="campo_deslocamento" id="encryOffset"><br>
+            <label>Mensagem Codificada:</label><br><textarea id="encryMessage" cols="35" rows="8"></textarea><br>
+            <button id="encodeButton" type="submit">Criptografar mensagem</button>
+          </fieldset>
+        </form>
+      </section>
 
-    <section id="section-decrypt">
-      <form id="decrypt" autocomplete="off">
-        <fieldset>
-          <legend>Descriptografe a mensagem</legend>
-          <label>Mensagem Codificada:</label><textarea id="encryMessage" cols="35" rows="8"></textarea><br>
-          <label>Deslocamento: </label><input class="campo_deslocamento" id="decryOffset"><br>
-          <label>Mensagem Decodificada:</label><br><textarea id="msg" cols="35" rows="8"></textarea><br>
-          <button id="decodeButton" type="submit">Descriptografar mensagem</button>
-        </fieldset>
-      </form>
-    </section>
+      <section class="item">
+        <form id="decrypt" autocomplete="off">
+          <fieldset>
+            <legend>Descriptografe a mensagem</legend>
+            <label>Mensagem Codificada:</label><textarea id="encryMessage" cols="35" rows="8"></textarea><br>
+            <label>Deslocamento: </label><input class="campo_deslocamento" id="decryOffset"><br>
+            <label>Mensagem Decodificada:</label><br><textarea id="msg" cols="35" rows="8"></textarea><br>
+            <button id="decodeButton" type="submit">Descriptografar mensagem</button>
+          </fieldset>
+        </form>
+      </section>
 
+    </div>
 
   </div>
   <script src="index.js" type="module">
